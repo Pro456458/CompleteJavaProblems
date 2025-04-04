@@ -1,0 +1,16 @@
+
+`	java:S112J"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112["FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+t
+java:S2142I"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+Q	java:S125F"<This block of commented-out lines of code should be removed.(ÉúæÛ
+V	java:S125N"<This block of commented-out lines of code should be removed.(ãÓá€ûÿÿÿÿ
+K
+java:S2446P"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+t
+java:S2142Z"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+Q	java:S125W"<This block of commented-out lines of code should be removed.(´èÊÍ
+V	java:S125_"<This block of commented-out lines of code should be removed.(˜„µ€üÿÿÿÿ
+K
+java:S2446a"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+Q	java:S125n"<This block of commented-out lines of code should be removed.(ÄÍ­

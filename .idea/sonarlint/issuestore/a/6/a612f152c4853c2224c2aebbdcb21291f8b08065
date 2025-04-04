@@ -1,0 +1,18 @@
+
+g
+java:S3655†"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(š‚§Î
+f
+java:S3655~"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¯×¬†
+X
+java:S1612"BReplace this lambda with method reference 'Comparable::compareTo'.(¬å¼£
+V	java:S125"<This block of commented-out lines of code should be removed.(°¤¦•ûÿÿÿÿ
+V	java:S125$"<This block of commented-out lines of code should be removed.(ª‹¸ºÿÿÿÿÿ
+V	java:S125)"<This block of commented-out lines of code should be removed.(ü–Ä„ÿÿÿÿÿ
+V	java:S125."<This block of commented-out lines of code should be removed.(“¯Ïþÿÿÿÿÿ
+Q	java:S1255"<This block of commented-out lines of code should be removed.(„°Ä•
+
+java:S6204{"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(¬ªø©
+–
+java:S6204ƒ"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(“ÌóÎûÿÿÿÿ
+8
+java:S1116ƒ"Remove this empty statement.(“ÌóÎûÿÿÿÿ
